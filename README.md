@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sidhan (AKA: ItzNexus)</h1>
-<h3 align="center">An average coder</h3>
+<h1 align="center">Mohammed Almeqbali</h1>
+<h3 align="center">An Discord Bot Developer</h3>
 
-- 😄 Pronouns: He/Him
-- ✅ [Click me](https://github.com/ItzSidhan/Credits) to use my codes on your videos!
+- From United Arab Emirates 🇦🇪
+
 
 ---
 
