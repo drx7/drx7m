@@ -1,7 +1,9 @@
 <h1 align="center">Mohammed Almeqbali</h1>
 <h3 align="center">An Discord Bot Developer</h3>
 
-- From United Arab Emirates 🇦🇪
+- From United Arab Emirates
+- Working On Weck
+- Owner In Volcano
 
 
 ---
